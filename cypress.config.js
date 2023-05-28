@@ -20,7 +20,7 @@ function loadConfigFile() {
   try {
     return require(configPath);
   } catch (error) {
-    console.error(`Failed to load configuration file ${configPath}`);
+    console.error(`Config Failed to load configuration file ${configPath}`);
     process.exit(1);
   }
 }
