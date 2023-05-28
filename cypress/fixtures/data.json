@@ -1,0 +1,16 @@
+{
+    "article": {
+        "new": {
+          "title": "Cypress Demo with E2E Test",
+          "introduction": "This demo helps user to understand cypress diff Features",
+          "body": "Most end-to-end testing tools are Selenium-based, which is why they all share the same problems. To make Cypress different, we built a new architecture from the ground up. Whereas Selenium executes remote commands through the network, Cypress runs in the same run-loop as your application.",
+          "tags": "Cypress Demo E2E Test"
+        },
+        "edit": {
+          "title": "Cypress Demo with E2E Test Edited",
+          "introduction": "This demo helps user to understand cypress diff Features Edited",
+          "body": "Most end-to-end testing tools are Selenium-based, which is why they all share the same problems. To make Cypress different, we built a new architecture from the ground up. Whereas Selenium executes remote commands through the network, Cypress runs in the same run-loop as your application. Edited",
+          "tags": "Cypress Demo E2E Test Edited"
+        }
+      }
+}
