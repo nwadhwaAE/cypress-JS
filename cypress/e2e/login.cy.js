@@ -3,7 +3,7 @@ describe('User Registration and Login', () => {
     cy.visit('https://react-redux.realworld.io/#/?_k=reuvps');
   });
 
-  it('should allow user registration', () => {
+  it('should  allow user registration', () => {
     const username = 'testuser';
     const email = 'testuser@example.com';
     const password = 'testpassword';
